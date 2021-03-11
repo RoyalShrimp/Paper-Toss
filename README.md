@@ -1,2 +1,1 @@
-# Paper-Toss
-A whitehat Project
+# CP-2
